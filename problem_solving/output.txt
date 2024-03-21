@@ -1,0 +1,4 @@
+<map object at 0x7e396fe57d00>
+['appleorange', 'komolalemon']
+<class 'tuple'>
+[1, 4, 9, 16]
